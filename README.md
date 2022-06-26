@@ -1,1 +1,1 @@
-Hi mi nombre es oscar soy autodidacta e acepto recomendaciones de aprendizaje sobre lenguajes de programacion e general
+I'm a junior developer and this is my profile, I'm on the front-end side at the moment.
